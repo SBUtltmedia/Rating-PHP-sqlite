@@ -1,0 +1,20 @@
+<?xml
+version="1.0" encoding="UTF-8"?>
+<imsx_POXEnvelopeResponse xmlns="http://www.imsglobal.org/services/ltiv1p1/xsd/imsoms_v1p0">
+    <imsx_POXHeader>
+        <imsx_POXResponseHeaderInfo>
+            <imsx_version>V1.0</imsx_version>
+            <imsx_messageIdentifier>68e5881332495</imsx_messageIdentifier>
+            <imsx_statusInfo>
+                <imsx_codeMajor>failure</imsx_codeMajor>
+                <imsx_severity>status</imsx_severity>
+                <imsx_description>Invalid consumer key id=key_NSlctxPORqrIGspICqtDA8UqFvTHcqrxo96XLGgSMdmmnnVBfPXElvFy6 secret=secret_AAAAB3NzaC1yc2EAAAABJQAAAQEAkett8rI9w9NufPDOkB</imsx_description>
+                <imsx_messageRefIdentifier></imsx_messageRefIdentifier>
+            </imsx_statusInfo>
+        </imsx_POXResponseHeaderInfo>
+    </imsx_POXHeader>
+    <imsx_POXBody>
+        <replaceResultResponse/>
+    </imsx_POXBody>
+</imsx_POXEnvelopeResponse>
+failure
